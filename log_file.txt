@@ -1,3 +1,0 @@
-2022-03-26 00:54:02.911774 имя функции multiplier с аргументами ([1, 2, 4, 5], ['d', 'c', 'd', 'e']) результат функции [1, 2, 4, 5, 'd', 'c', 'd', 'e']  путь к файлу C:\Users\user\Documents\Дима\Обучение нейтоллгия\homework_2blok\HW_decorator\log_file.txt
-2022-03-26 00:55:18.328318 имя функции multiplier с аргументами ([1, 2, 4, 5], ['d', 'c', 'd', 'e']) результат функции [1, 2, 4, 5, 'd', 'c', 'd', 'e']  путь к файлу C:\Users\user\Documents\Дима\Обучение нейтоллгия\homework_2blok\HW_decorator\log_file.txt
-2022-03-26 00:55:21.396482 имя функции multiplier с аргументами ([1, 2, 4, 5], ['d', 'c', 'd', 'e']) результат функции [1, 2, 4, 5, 'd', 'c', 'd', 'e']  путь к файлу C:\Users\user\Documents\Дима\Обучение нейтоллгия\homework_2blok\HW_decorator\log_file.txt
