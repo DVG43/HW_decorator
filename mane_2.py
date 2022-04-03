@@ -1,5 +1,6 @@
 import os
 from loger_decorator import loger_decorator
+from loger_decorator import parametrized_decor
 
 @ loger_decorator
 def get_data_dishes(file_neme):
@@ -75,7 +76,8 @@ def make_value_new_dict(name_in_dict, some_dict):
       return new_list_of_ingradient
 
 
-@ loger_decorator
+#@ loger_decorator
+@ parametrized_decor(parameter='Log_files/')
 def get_shop_list_by_dishes (whishes_list, book):
 # Проверка правильости блюда по переменной dishes_name_lis - цикл по списку ввода.
       total_list_ingredients = []
